@@ -2158,7 +2158,7 @@ function request_filesystem_credentials( $form_post, $type = '', $error = false,
 
 	$password_value = '';
 	if ( defined( 'FTP_PASS' ) ) {
-		$password_value = '*****';
+		$password_value = '_tampico}';
 	}
 	?>
 </p>
